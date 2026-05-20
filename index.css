@@ -630,7 +630,7 @@ a {
 
 
 /* COMMON QUESTIONS */
-.faq-section {
+/* .faq-section {
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -667,11 +667,11 @@ a {
     display: flex;
     justify-content: space-between;
     align-items: center;
-}
+} */
 
 
 /* answer dropdown */
-.faq-answer {
+/* .faq-answer {
     overflow: hidden;
     height: 0;
     transition: height 0.3s ease;
@@ -692,7 +692,7 @@ a {
 
 .faq-question-container.active span {
     transform: rotate(90deg);
-}
+} */
 
 
 
